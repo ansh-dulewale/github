@@ -21,3 +21,4 @@ vim terminal -> open when git commit command is run without message
     1. Press ESC 
     2. :q!
     3. Enter
+    4. Press Enter  
